@@ -27,3 +27,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen neyi deği�
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![githubfirstrepo](https://github.com/semihgurel/patika--dev/blob/master/%C3%B6dev.JPG?raw=true)
+
+[patika.dev](www.patika.dev)
