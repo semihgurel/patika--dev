@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen neyi deği�
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![githubfirstrepo](http://www.imgim.com/ödev.jpg)
+![githubfirstrepo](https://github.com/semihgurel/patika--dev/blob/master/%C3%B6dev.JPG?raw=true)
