@@ -25,3 +25,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen neyi deği�
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![githubfirstrepo](http://www.imgim.com/ödev.jpg)
